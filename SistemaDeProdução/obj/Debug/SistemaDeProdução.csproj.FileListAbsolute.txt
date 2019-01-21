@@ -1,0 +1,7 @@
+C:\Users\gabriel.drumond\source\repos\SistemaDeProdução\SistemaDeProdução\obj\Debug\SistemaDeProdução.csprojAssemblyReference.cache
+C:\Users\gabriel.drumond\source\repos\SistemaDeProdução\SistemaDeProdução\obj\Debug\SistemaDeProdução.csproj.CoreCompileInputs.cache
+C:\Users\gabriel.drumond\source\repos\SistemaDeProdução\SistemaDeProdução\bin\Debug\SistemaDeProdução.exe.config
+C:\Users\gabriel.drumond\source\repos\SistemaDeProdução\SistemaDeProdução\bin\Debug\SistemaDeProdução.exe
+C:\Users\gabriel.drumond\source\repos\SistemaDeProdução\SistemaDeProdução\bin\Debug\SistemaDeProdução.pdb
+C:\Users\gabriel.drumond\source\repos\SistemaDeProdução\SistemaDeProdução\obj\Debug\SistemaDeProdução.exe
+C:\Users\gabriel.drumond\source\repos\SistemaDeProdução\SistemaDeProdução\obj\Debug\SistemaDeProdução.pdb
