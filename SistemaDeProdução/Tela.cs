@@ -106,7 +106,8 @@ namespace SistemaDeProducao
             Console.Write("Digite a quantidade : ");
             int quantidade = int.Parse(Console.ReadLine());
 
-            Produtos search = Program.produtos.Find(x => x.idEletronicos == idSearch);
+            Produtos search = Program.produtos.Find(x => x.idEletronicos == idSearch); //precisa ser revisada, aparentemente não consigo encontrar a propriedade dentro da lista produto
+
 
             if (search != null)
             {
